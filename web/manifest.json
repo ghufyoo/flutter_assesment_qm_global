@@ -1,6 +1,6 @@
 {
-    "name": "flutter_starter_template",
-    "short_name": "flutter_starter_template",
+    "name": "qm_global",
+    "short_name": "qm_global",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

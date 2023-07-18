@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_starter_template/core/theme/themes.dart';
+import 'package:qm_global/core/theme/themes.dart';
 
 import 'package:get/get.dart';
 

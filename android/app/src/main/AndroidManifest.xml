@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_starter_template">
+    package="com.example.qm_global">
         <uses-permission
         android:name="android.permission.INTERNET"/>
     <uses-permission
@@ -13,9 +13,9 @@
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
    <application
-        android:label="Ghufran_Talent Assessment Test"
+        android:label="QM_Global"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"

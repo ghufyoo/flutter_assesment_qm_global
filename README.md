@@ -1,4 +1,4 @@
-# flutter_starter_template
+# qm_global
 <<<<<<< HEAD
 This repository is a template for developer who use GetX state management system
 =======
